@@ -1,2 +1,2 @@
 # Project-Six
-Here in assignment six, the program in simple words, sorts 10 numners. By beingvisually demonstrating its sorting through tk wedges. As each number is represented by a bar to be moved, through comparison.
+Here in assignment six, the programs, in simple words, sort a series of numbers. By visually demonstrating its sorting through tk wedges. As each number is represented by a bar to be moved, through comparison. Each one can be done so through its different number of lists, one larger than the other. But once finished, they all stay in the same color and can be visually correct. Since this program doesn't intake any input values, the designs don't need to validate numbers and other inputs.
